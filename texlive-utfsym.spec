@@ -1,6 +1,6 @@
 Name:		texlive-utfsym
 Version:	63076
-Release:	1
+Release:	2
 Summary:	Provides various Unicode symbols
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/utfsym
