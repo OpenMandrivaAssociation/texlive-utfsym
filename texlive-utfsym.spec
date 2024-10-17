@@ -3,7 +3,7 @@ Version:	63076
 Release:	2
 Summary:	Provides various Unicode symbols
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/utfsym
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/utfsym
 License:	cc0
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/utfsym.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/utfsym.doc.r%{version}.tar.xz
